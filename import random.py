@@ -10,3 +10,4 @@ while number2 != number1:
     else:
         print ("好啊!")
     number2 = int(input())
+    print('Hello, Sveta!!!')
